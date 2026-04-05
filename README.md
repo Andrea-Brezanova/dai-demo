@@ -2,7 +2,7 @@
 A full-stack web application that automates task workflows and manages data.
 
 # Overview
-This project is inspired by real-world work → dai-project-showcase.
+A Django-based internal procurement management application designed to optimize data entry and management, reduce duplicate entries, and improve workflow structure through a normalized relational database and server-rendered forms. Inspired by real-world work → dai-project-showcase.
 
 # Purpose
 This project is a self-developed demo inspired by workflow automation features I worked on during an internship. It contains no client-specific or proprietary code.
